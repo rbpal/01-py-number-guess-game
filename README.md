@@ -16,3 +16,6 @@ We wrap the input conversion and the subsequent code in a `try` block to catch `
 This game combines user input, random number generation, conditional statements, and loops to create an engaging and interactive experience.
 
 
+- **Code test and visulization**<br>
+Visit https://pythontutor.com/
+![image](images/number_guessing_game.png)
